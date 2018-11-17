@@ -47,7 +47,7 @@
 		}
 
 		if (!intensity)
-			intensity = 0;
+			intensity = 0.25;
 
 		$this.each(function() {
 
