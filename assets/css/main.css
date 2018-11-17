@@ -4651,3 +4651,9 @@ input, select, textarea {
 		}
 
 	}
+
+	/**/
+
+	.read_more_container {
+		display: none;
+	}
