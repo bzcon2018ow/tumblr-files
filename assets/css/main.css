@@ -4654,6 +4654,6 @@ input, select, textarea {
 
 	/**/
 
-	.read_more_container {
+	p.read_more_container {
 		display: none;
 	}
